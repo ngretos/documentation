@@ -22,4 +22,6 @@
 * Δηλώνουμε τη λίστα (search form) των προτάσεων που θα βλέπουμε 
 * Δηλώνουμε τη λίστα (search form) των προτάσεων που θα εμφανίζονται όταν πατάμε new
 ## Δημιουργία searchForm (search-forms.xml)
+`C:\inetpub\wwwroot\AuditorCIS_13\Resources\files\searchforms-config.xml`
 ## Δημιουργία data action 
+`C:\inetpub\wwwroot\AuditorCIS_13\SAMIS\Common\Resources\Files\DataActions\SamisDataActions.xml`
