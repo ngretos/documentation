@@ -25,3 +25,5 @@
 `C:\inetpub\wwwroot\AuditorCIS_13\Resources\files\searchforms-config.xml`
 ## Δημιουργία data action 
 `C:\inetpub\wwwroot\AuditorCIS_13\SAMIS\Common\Resources\Files\DataActions\SamisDataActions.xml`
+## Καταχώρηση στο web.config
+`C:\inetpub\wwwroot\AuditorCIS_13\Web.config`
