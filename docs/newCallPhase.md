@@ -28,4 +28,4 @@
 ## Καταχώρηση στο web.config
 `C:\inetpub\wwwroot\AuditorCIS_13\Web.config`
 ## Ενημέρωση του αρχείου CallPhasesPerCall.xml
-`MOD.BusinessLogic.Common.ActivitySelector.CallPhasesPerCall.xml`
+`C:\projects\auditorcis_dev13\MOD.BusinessLogic\Common\ActivitySelector\CallPhasesPerCall.xml`
