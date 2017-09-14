@@ -27,3 +27,5 @@
 `C:\inetpub\wwwroot\AuditorCIS_13\SAMIS\Common\Resources\Files\DataActions\SamisDataActions.xml`
 ## Καταχώρηση στο web.config
 `C:\inetpub\wwwroot\AuditorCIS_13\Web.config`
+## Ενημέρωση του αρχείου CallPhasesPerCall.xml
+`MOD.BusinessLogic.Common.ActivitySelector.CallPhasesPerCall.xml`
