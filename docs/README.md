@@ -5,4 +5,5 @@
   * [Νέα δράση](newCall.md)
   * [Νέα ενέργεια](newCallPhase.md)
   * [Πέρασμα στην παραγωγική (deploy)](deploy.md)
+  * [Παραμετροποίηση φόρμας (jsondata)](josndata.md)
   
